@@ -1,7 +1,7 @@
 import './App.css';
 import Header from './components/Header';
 import Navbar from './pages/Navbar';
-import Router from './router'
+import Router from './router';
 
 function App() {
   return (

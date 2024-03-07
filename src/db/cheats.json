@@ -1,0 +1,1016 @@
+[
+  {
+    "cheats": "GUNSGUNSGUNS",
+    "efeitos": "todas as armas",
+    "id": 1,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "GESUNDHEIT",
+    "efeitos": "saúde",
+    "id": 2,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "TORTOISE",
+    "efeitos": "Colete",
+    "id": 3,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "MOREPOLICEPLEASE",
+    "efeitos": "Aumentar o ní­vel de procurado",
+    "id": 4,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "NOPOLICEPLEASE",
+    "efeitos": "Diminuir ní­vel de procurado",
+    "id": 5,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "IFIWEREARICHMAN",
+    "efeitos": "Dinheiro",
+    "id": 6,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "GIVEUSATANK",
+    "efeitos": "tanque",
+    "id": 7,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "ANICESETOFWHEELS",
+    "efeitos": "Apenas as rodas são visí­veis",
+    "id": 8,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "CORNERSLIKEMAD",
+    "efeitos": "Melhor condução",
+    "id": 9,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "BANGBANGBANG",
+    "efeitos": "Carros perto de você explodem",
+    "id": 10,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "CHITTYCHITTYBB",
+    "efeitos": "Carros voadores",
+    "id": 11,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "ITSALLGOINGMAAAD",
+    "efeitos": "Pedestres loucos",
+    "id": 12,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "NOBODYLIKESME",
+    "efeitos": "Pedestres tentam te matar",
+    "id": 13,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "WEAPONSFORALL",
+    "efeitos": "Pedestres carregam armas",
+    "id": 14,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "ILIKEDRESSINGUP",
+    "efeitos": "Mudar personagem",
+    "id": 15,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "SKINCANCERFORME",
+    "efeitos": "Clima agradável",
+    "id": 16,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "ILIKESCOTLAND",
+    "efeitos": "Espessura de Nevoeiro Nível 1",
+    "id": 17,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "ILOVESCOTLAND",
+    "efeitos": "Espessura de Nevoeiro Nível 2",
+    "id": 18,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "PEASOUP",
+    "efeitos": "Espessura de Nevoeiro Nível 3",
+    "id": 19,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "MADWEATHER",
+    "efeitos": "Acelerar o tempo",
+    "id": 20,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "TIMEFLIESWHENYOU",
+    "efeitos": "Jogabilidade mais rápida",
+    "id": 21,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "BOOOOORING",
+    "efeitos": "Jogabilidade mais lenta ",
+    "id": 22,
+    "jogos_id": 1
+  },
+  {
+    "cheats": "THUGSTOOLS",
+    "efeitos": "Desbloqueia todas as armas leves",
+    "id": 23,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "PROFESSIONALTOOLS",
+    "efeitos": "Desbloqueia todas as armas médias",
+    "id": 24,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "NUTTERTOOLS",
+    "efeitos": "Desbloqueia todas as armas pesadas",
+    "id": 25,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "YOUCANTLEAVEMEALONE",
+    "efeitos": "Invencí­vel",
+    "id": 26,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "ASPIRINE",
+    "efeitos": "Restaura a barra de saúde",
+    "id": 27,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "PRECIOUSPROTECTION",
+    "efeitos": "Restaura o colete",
+    "id": 28,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "YOUWONTTAKEMEALIVE",
+    "efeitos": "Aumenta 2 estrelas no nÍvel de procurado",
+    "id": 29,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "LEAVEMEALONE",
+    "efeitos": "Remove o nÍvel de procurado",
+    "id": 30,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "ICANTTAKEITANYMORE",
+    "efeitos": "Personagem comete suicÃ­dio",
+    "id": 31,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "FULLCITYPEOPLEMINES",
+    "efeitos": "Compra todas as propriedades",
+    "id": 32,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "ONSPEED",
+    "efeitos": "Aumenta a velocidade do jogo",
+    "id": 33,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "BOOOOOORING",
+    "efeitos": "Diminui a velocidade do jogo",
+    "id": 34,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "LIFEISPASSINGMEBY",
+    "efeitos": "Tempo passa mais rÃ¡pido",
+    "id": 35,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "PFIGHTFIGHTFIGHT",
+    "efeitos": "Pedestres ficam revoltados",
+    "id": 36,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "NOBODYLIKESME",
+    "efeitos": "Pedestres ficam agressivos",
+    "id": 37,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "OURGODGIVENRIGHTTOBEARARMS",
+    "efeitos": "Pedestres armados",
+    "id": 38,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "CHICKSWITHGUNS",
+    "efeitos": "Todas as mulheres ficam armadas",
+    "id": 39,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "FANNYMAGNET",
+    "efeitos": "Atrai todas as mulheres",
+    "id": 40,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "ALOVELYDAY",
+    "efeitos": "Dia ensolarado",
+    "id": 41,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "APLEASANTDAY",
+    "efeitos": "Dia nublado",
+    "id": 42,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "ABITDRIEG",
+    "efeitos": "Dia nublado com nuvens densas",
+    "id": 43,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "CANTSEEATHING",
+    "efeitos": "NÃ©voa",
+    "id": 44,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "CATSANDDOGS",
+    "efeitos": "Chuva",
+    "id": 45,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "AIRSHIP",
+    "efeitos": "Barcos voam",
+    "id": 46,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "BIGBANG",
+    "efeitos": "VeÍculos prÃ³ximos explodem",
+    "id": 47,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "MIAMITRAFFIC",
+    "efeitos": "Trânsito fica maluco",
+    "id": 48,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "COMEFLYWITHME",
+    "efeitos": "Carros voam",
+    "id": 49,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "IWANTITPAINTEDPreto",
+    "efeitos": "Todos os carros ficam pretos",
+    "id": 50,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "AHAIRDRESSERSCAR",
+    "efeitos": "Todos os carros ficam rosas",
+    "id": 51,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "GRIPISEVERYTHING",
+    "efeitos": "Direção fica mais fácil",
+    "id": 52,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "GREENLIGHT",
+    "efeitos": "Todos os semÁforos ficam verdes",
+    "id": 53,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "SEAWAYS",
+    "efeitos": "Carros andam na Água",
+    "id": 54,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "WHEELSAREALLINEED",
+    "efeitos": "Carros ficam invisÍveis",
+    "id": 55,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "LOADSOFLITTLETHINGS",
+    "efeitos": "Carros ficam com rodas gigantes",
+    "id": 56,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "PANZER",
+    "efeitos": "Tanque de Guerra",
+    "id": 57,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "TRAVELINSTYLE",
+    "efeitos": "Bloodring Banger",
+    "id": 58,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "GETTHEREQUICKLY",
+    "efeitos": "Alt Bloodring Banger",
+    "id": 59,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "GETTHEREFAST",
+    "efeitos": "Sabre Turbo",
+    "id": 60,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "GETTHEREVERYFASTINDEED",
+    "efeitos": "Hotring Racer",
+    "id": 61,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "GETTHEREAMAZINGLYFAST",
+    "efeitos": "Alt Hotring Racer",
+    "id": 62,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "THELASTRIDE",
+    "efeitos": "Carro funerário",
+    "id": 63,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "ROCKANDROLLCAR",
+    "efeitos": "Limousine",
+    "id": 64,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "RUBBISHCAR",
+    "efeitos": "CaminhÃo de lixo",
+    "id": 65,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "BETTERTHANWALKING",
+    "efeitos": "Carrinho de Golfe",
+    "id": 66,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "DEEPFRIEDMARSBARS",
+    "efeitos": "Gordo",
+    "id": 67,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "PROGRAMMER",
+    "efeitos": "Magro",
+    "id": 68,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "CERTAINDEATH",
+    "efeitos": "Fuma o tempo todo",
+    "id": 69,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "STILLLIKEDRESSINGUP",
+    "efeitos": "Roupa aleatória",
+    "id": 70,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "CHEATSHAVEBEENCRACKED",
+    "efeitos": "Controle Ricardo Diaz",
+    "id": 71,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "FOXYLITTLETHING",
+    "efeitos": "Controle Mercedes",
+    "id": 72,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "IDONTHAVETHEMONEYSONNY",
+    "efeitos": "Controle Sonny Forelli",
+    "id": 73,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "LOOKLIKELANC",
+    "efeitos": "Controle Lance Vance",
+    "id": 74,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "WELOVEOURDICK",
+    "efeitos": "Controle Dick (da banda Love Fist)",
+    "id": 75,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "ROCKANDROLLMAN",
+    "efeitos": "Controle Jezz (da banda Love Fis)",
+    "id": 76,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "ILOOKLIKEHILARY",
+    "efeitos": "Controle Hilary King",
+    "id": 77,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "MYSONISALAWYER",
+    "efeitos": "Controle Ken Rosenberg",
+    "id": 78,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "STILLLIKEDRESSINGUP",
+    "efeitos": "Controle um Pedestre",
+    "id": 79,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "IWANTBIGTITS",
+    "efeitos": "Candy Suxxx Skin",
+    "id": 80,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "ONEARMEDBANDIT",
+    "efeitos": "Controle Phil Cassidy",
+    "id": 81,
+    "jogos_id": 2
+  },
+  {
+    "cheats": "HESOYAM",
+    "efeitos": "Vida, colete e $250 milhões em dinheiro",
+    "id": 82,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "BAGUVIX",
+    "efeitos": "Vida infinita",
+    "id": 83,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "MUNASEF",
+    "efeitos": "Modo adrenalina",
+    "id": 84,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "CVWKXAM",
+    "efeitos": "Oxigênio infinito",
+    "id": 85,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "OGXSDAG",
+    "efeitos": "Respeito máximo",
+    "id": 86,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "KVGYZQK",
+    "efeitos": "CJ magro",
+    "id": 87,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "BTCDBCB",
+    "efeitos": "Cj",
+    "id": 88,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "JYSDSOD",
+    "efeitos": "Cj musculoso",
+    "id": 89,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "IAVENJQ",
+    "efeitos": "Super soco",
+    "id": 90,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "LFGMHAL",
+    "efeitos": "Super pulo",
+    "id": 91,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "AEDUWNV",
+    "efeitos": "NÃo sentir fome",
+    "id": 92,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "VQIMAHA",
+    "efeitos": "Máximo de habilidade na direção",
+    "id": 93,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "PROFESSIONALKILLER",
+    "efeitos": "Máximo de habilidade com armas",
+    "id": 94,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "HELLOLADIES",
+    "efeitos": "Atração sexual no máximo",
+    "id": 95,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "ASNAEB",
+    "efeitos": "Resetar o nÍvel de procurado",
+    "id": 96,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "SZCMAWO",
+    "efeitos": "Matar o CJ",
+    "id": 97,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "CRAZYTOWN",
+    "efeitos": "Modo Funhouse",
+    "id": 98,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "TURNUPTHEHEAT]",
+    "efeitos": "Aumentar o nÍvel de procurado",
+    "id": 99,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "TURNDOWNTHEHEAT",
+    "efeitos": "Diminuir o nÍvel de procurado",
+    "id": 100,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "ASNAEB",
+    "efeitos": "Zerar o nÍvel de procurado",
+    "id": 101,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "BRINGITON.",
+    "efeitos": "Nível de procurado no máximo",
+    "id": 102,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "AEZAKMI",
+    "efeitos": "Nunca ser procurado",
+    "id": 103,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "LXGIWYL",
+    "efeitos": "Kit de armas 1",
+    "id": 104,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "KJKSZPJ",
+    "efeitos": "Kit de armas 2",
+    "id": 105,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "Armas UZUMYMW",
+    "efeitos": "Kit de armas 3",
+    "id": 106,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "WANRLTW",
+    "efeitos": "Munição infinita",
+    "id": 107,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "CIKGCGX",
+    "efeitos": "Todo mundo usando trajes de banho",
+    "id": 108,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "FOOOXFT",
+    "efeitos": "Todos NPCs armados",
+    "id": 109,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "AJLOJYQY",
+    "efeitos": "Todos NPCs com tacos de golfe",
+    "id": 110,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "BGLUAWML",
+    "efeitos": "Todos NPCs com lanÇa-foguetes",
+    "id": 111,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "IOJUFZN",
+    "efeitos": "ComeÇar uma briga",
+    "id": 112,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "ASBHGRB",
+    "efeitos": "Todos NPCs viram o Elvis",
+    "id": 113,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "YLTEICZ",
+    "efeitos": "Motoristas ficam mais agressivos",
+    "id": 114,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "BIFBUZZ",
+    "efeitos": "Gangues controlando as ruas",
+    "id": 115,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "MROEMZH",
+    "efeitos": "Controle aparecem em todos os lugares",
+    "id": 116,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "THGLOJ",
+    "efeitos": "Remover pedestres e tráfego",
+    "id": 117,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "BAGOWPG",
+    "efeitos": "Todos os NPCs atacam o jogador",
+    "id": 118,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "SJMAHPE",
+    "efeitos": "Recrute qualquer um",
+    "id": 119,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "AGBDLCID",
+    "efeitos": "Monster - Carro monstro",
+    "id": 120,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "AQTBCODX",
+    "efeitos": "Romero - carro da funerÁria",
+    "id": 121,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "JUMPJET",
+    "efeitos": "Hydra - AviÃo de guerra",
+    "id": 122,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "KGGGDKP",
+    "efeitos": "Vortex - Aerobarco",
+    "id": 123,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "RZHSUEW",
+    "efeitos": "Caddy - Carrinho de golfe",
+    "id": 124,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "EEGCYXT",
+    "efeitos": "Buldozer - Retroescavadeira",
+    "id": 125,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "UBHYZHQ",
+    "efeitos": "Trashmaster - CaminhÃo do lixo",
+    "id": 126,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "URKQSRK",
+    "efeitos": "Stuntplane - AviÃo para fazer acrobacias",
+    "id": 127,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "OHDUDE",
+    "efeitos": "Hunter - Helicóptero de combate",
+    "id": 128,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "AMOMHRER",
+    "efeitos": "Tanker truck - CaminhÃo-tanque",
+    "id": 129,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "YECGAA",
+    "efeitos": "Jetpack",
+    "id": 130,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "AIWPRTON",
+    "efeitos": "Rhino",
+    "id": 131,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "PDNEJOH",
+    "efeitos": "Carro de corrida 1",
+    "id": 132,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "VPJTQWV",
+    "efeitos": "Carro de corrida 2",
+    "id": 133,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "CQZIJMB",
+    "efeitos": "Bloodring Banger",
+    "id": 134,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "JQNTDMH",
+    "efeitos": "Rancher",
+    "id": 135,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "KGGGDKP",
+    "efeitos": "Vortex Hovercraft",
+    "id": 136,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "KRIJEBR",
+    "efeitos": "Stretch",
+    "id": 137,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "AIYPWZQP",
+    "efeitos": "Paraquedas",
+    "id": 138,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "VKYPQCF",
+    "efeitos": "Nitro em todos táxi",
+    "id": 139,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "COXEFGU",
+    "efeitos": "Nitro para todos os veÍculos do jogo",
+    "id": 140,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "CPKTNWT",
+    "efeitos": "Explodir todos os carros",
+    "id": 141,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "OUIQDMW",
+    "efeitos": "Atirar enquanto dirige",
+    "id": 142,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "XICWMDe",
+    "efeitos": "Carro invisÍvel",
+    "id": 143,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "RIPAZHA",
+    "efeitos": "Carros voadores",
+    "id": 144,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "BGKGTJH",
+    "efeitos": "Todos carros ficam baratos",
+    "id": 145,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "ZEIIVG",
+    "efeitos": "SemÁforos com luzes verdes",
+    "id": 146,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "AFSNMSMW",
+    "efeitos": "Barcos voadores",
+    "id": 147,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "BSXSGGC",
+    "efeitos": "Carros sem gravidade",
+    "id": 148,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "THGLOJ",
+    "efeitos": "Reduzir o tráfego",
+    "id": 149,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "IOWDLAC",
+    "efeitos": "Todos carros ficam pretos",
+    "id": 150,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "LLQPFBN",
+    "efeitos": "Todos carros ficam rosa",
+    "id": 151,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "ICIKPYH",
+    "efeitos": "Tempo muito ensolarado",
+    "id": 152,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "ALNSFMZO",
+    "efeitos": "Tempo nublado",
+    "id": 153,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "AUIFRVQS",
+    "efeitos": "Tempo chuvoso",
+    "id": 154,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "CFVFGMJ",
+    "efeitos": "Tempo com neblina",
+    "id": 155,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "AFZLLQLL",
+    "efeitos": "Tempo ensolarado",
+    "id": 156,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "MGHXYRM",
+    "efeitos": "Clima tempestuoso",
+    "id": 157,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "CWJXUOC",
+    "efeitos": "Tempestade de areia",
+    "id": 158,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "PRIEBJ",
+    "efeitos": "Modo Funhouse",
+    "id": 159,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "AFPHULTL",
+    "efeitos": "Modo Ninja",
+    "id": 160,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "YSOHNUL",
+    "efeitos": "Acelere o relógio",
+    "id": 161,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "PPGWJHT",
+    "efeitos": "Acelere a passagem do tempo",
+    "id": 162,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "LIYOAAY",
+    "efeitos": "Desacelere a passagem do tempo",
+    "id": 163,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "XJVSNAJ",
+    "efeitos": "Noite",
+    "id": 164,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "OFVIAC",
+    "efeitos": "Entardecer",
+    "id": 165,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "YSOHNUL",
+    "efeitos": "Tempo passando mais rápido",
+    "id": 166,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "LIYOAAY",
+    "efeitos": "Tempo passando mais devagar",
+    "id": 167,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "SPEEDITUP",
+    "efeitos": "Deixar o jogo mais rápido",
+    "id": 168,
+    "jogos_id": 3
+  },
+  {
+    "cheats": "NIGHTPROWLER",
+    "efeitos": "Sempre será meia-noite",
+    "id": 169,
+    "jogos_id": 3
+  }
+]

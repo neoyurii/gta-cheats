@@ -9,8 +9,9 @@ function Navbar(){
             <nav className='nav-container'>
                 <NavLink className="btn-link" to="GtaIII">GTA III</NavLink>
                 <NavLink className="btn-link" to="GtaVC">GTA Vice City</NavLink>
-                <NavLink className="btn-link" to="GtaSA">GTA San Andreas</NavLink>
+                <NavLink className="btn-link" to="GtaSA">GTA San Andreas</NavLink> 
             </nav>
+            <p>*PC version</p>
         </div>
     )
 }

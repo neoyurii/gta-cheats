@@ -22,19 +22,25 @@ a{
     align-items: center;
     animation: Fade 1s ease normal;
 }
+p{
+    margin-bottom: 20px;
+    text-align: center;
+    animation: Fade 1s ease normal;
+}
 
 .btn-link:nth-child(2){
     font-size: 14px;
     background-color: pink;
-    animation: Fade 1.2s ease normal;
+    animation: Fade 1s ease normal;
 }
 
 .btn-link:nth-child(3){
     font-size: 14px;
     background-color: orange;
     color: #000000;
-    animation: Fade 1.5s ease normal;
+    animation: Fade 1s ease normal;
 }
+
 
 @keyframes Fade {
     0%{
@@ -44,5 +50,15 @@ a{
     100%{
         opacity: 1;
         transform: translateY(0px);
+    }
+}
+
+@media screen and (max-width: 768px){
+    .nav-container{
+        height: 200px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
     }
 }
